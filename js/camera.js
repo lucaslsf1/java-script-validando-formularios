@@ -36,3 +36,5 @@ botaoEnviarFoto.addEventListener('click', () => {
 
     window.location.href = './abrir-conta-form-3.html';
 })
+
+//teste
